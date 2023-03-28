@@ -1,0 +1,110 @@
+@charset "UTF-8";
+header {
+    border-width: 0px;
+    width: 618px;
+    height: 234px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    
+}
+aside {
+    width: 150px;
+    height: 600px;
+    float: left;
+    font-size: large;
+    background-color: #A53133;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 9px;
+}
+h1 {
+    color: #6BE7FF;
+}
+main {
+    
+    width: 618px;
+    height: 900px;
+    float: left;
+}
+footer {
+    
+    height: 50px;
+    clear: both;
+}
+body {
+    background-image: url(eldenbackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #A53133;
+}
+#container table {
+}
+
+#container{
+    width: 768px;
+    height: auto;
+    background-color: #211E1E;
+    margin: auto;
+}
+h1 {
+    color: #A53133;
+}
+
+/*I made code for my Blog project*/
+#container header img {
+}
+nav {
+    width: 768px;
+    height: 50px;
+}
+#container nav li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    width: 173px;
+    text-align: center;
+    background-position: 0% 0%;
+    -webkit-box-shadow: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 0px 0px;
+    font-style: italic;
+    color: #801919;
+}
+ul li a {
+    color: #A53133;
+}
+tr td a {
+    color: #A53133;
+}
+#container p a {
+    color: #A53133;
+}
+.submit_btn {
+    width: 80px;
+    height: 30px;
+    background-color: #6BE7FF;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+p {
+    color: #A53133;
+}
+h4 {
+    color: #A53133;
+}
+li {
+    color: #A53133;
+}
+#container ul li {
+    /* [disabled]margin-top: -4px; */
+    margin-right: 62px;
+}
+#container ul {
+}
+td a #imageField {
+}
+tr td img {
+}
